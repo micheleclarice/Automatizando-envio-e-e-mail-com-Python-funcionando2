@@ -1,0 +1,1 @@
+# Automatizando-envio-e-e-mail-com-Python-funcionando2
